@@ -1,0 +1,14 @@
+.markup_a7e664 code, .bd-addon-error-stack code {
+	font-size: relative;
+	line-height: 25px;
+	border-radius: 5px;
+	padding: 10px;
+	font-family: Monospace, Helvetica, sans-serif !important;
+	/*markup code BG*/
+}
+.theme-dark .markup_a7e664 code, .theme-dark .textContainer__709ff, .theme-dark .bd-addon-error-stack code, .timestamp_a65714, .commandName__72789 {
+	color: white;
+	background-color: rgba(0,0,0);
+	box-shadow: none;
+	border: 1px solid rgba(100,100,100) !important;
+}
